@@ -1,0 +1,34 @@
+BIOINFORMATICS
+
+1st Exam
+Structural Bioinformatics
+- VMD - Visual Mollecular Dynamics (Stable)
+- NAMD (executable)
+Bioethics
+
+2nd Exam
+Sequence Analysis
+- Protein Structure Protein
+Bioinformatics servers
+Epigenetics
+
+3rd Exam
+Presentations
+- Free, approved topic
+- Speak 1 min in English
+
+Textbook: 
+- Anthology
+- Protein Structure Prediction: Concepts and Applications. Anna Tramontano. 2006
+
+Grading
+1st and 2nd
+60% Exams
+30% Lab
+10% Homework
+
+3rd
+60% Presentation
+10% Report - Slices (Powerpoint, videos, etc.)
+10% 1 min in English
+20% Participation

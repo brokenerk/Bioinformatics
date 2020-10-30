@@ -1,0 +1,35 @@
+Initial Setup
+In order to complete this tutorial, you will require to have up-to-date
+versions of the following software, properly installed on your computer:
+
+* VMD: a molecular graphics program. 
+This software is developed by the Theoretical and Computational 
+Biophysics Group. You can download it for free from
+www.ks.uiuc.edu/Research/vmd. We encourage you to go through 
+the VMD tutorial at www.ks.uiuc.edu/Research/vmd/tutorial prior to 
+using the present tutorial.
+
+* NAMD: a molecular dynamics simulation program. This software is 
+also developed by the Theoretical and Computational Biophysics Group.
+You can download it for free from www.ks.uiuc.edu/Research/namd.
+
+Unix / MacOSX Users:
+* xmgrace: a free scientific plotting and analysis program. More 
+information about xmgrace can be found at
+http://plasma-gate.weizmann.ac.il/Grace/.
+
+* a command prompt:
+ - UNIX: Terminal
+ - Mac OS X: Terminal.app
+
+Windows Users:
+* Microsoft Excel: a spreadsheet program. It may be downloaded at
+http://office.microsoft.com/en-gb/FX010858001033.aspx.
+We will use Excel for the plotting and analysis of data. If you
+are unable to acquire Excel, a free scientific analysis and
+plotting program called scilab is available free of charge at
+http://www.scilab.org/.
+
+* a command prompt:
+ - DOS command prompt.
+
