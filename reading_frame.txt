@@ -1,0 +1,3 @@
+START = AUG / Also Met
+
+STOP  = UAG, UAA, UGA

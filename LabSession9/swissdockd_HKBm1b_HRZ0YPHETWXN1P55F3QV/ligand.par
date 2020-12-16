@@ -1,0 +1,163 @@
+* ---- 
+* Built parameters for tmp4RL5NB.mol2 
+*    by user swissdock     Tue Dec 15 05:49:58 CET 2020 
+* ---- 
+*
+
+BONDS
+NC=C C=O   439.714     1.3700 
+NC=C HNCO  473.250     1.0180 
+C=O  NC=O  419.491     1.3690 
+C=O  N=C   725.204     1.2900 
+N=C  C5A   491.098     1.3450 
+C5A  NPYL  453.459     1.3640 
+C5A  C5B   512.256     1.3770 
+C5B  N5B   320.682     1.3690 
+C5B  C=O   380.558     1.4310 
+N5B  C5A   599.191     1.3130 
+C5A  HCMM  398.045     1.0800 
+NPYL CR    440.002     1.4450 
+CR   OR    363.214     1.4180 
+CR   HCMM  342.991     1.0930 
+CR   CR    306.432     1.5080 
+OR   HOR   560.905     0.9720 
+C=O  O=C   931.963     1.2220 
+NC=O HNCO  479.511     1.0150 
+
+ANGLES
+N=C  C=O  NC=O   79.522    120.6970 
+N=C  C=O  NC=C   60.739    128.0780 
+NC=O C=O  NC=C   78.658    119.6970 
+C=O  N=C  C5A    89.741    109.9890 
+N=C  C5A  C5B    57.860    134.2370 
+N=C  C5A  NPYL   76.859    121.7410 
+C5B  C5A  NPYL   58.508    107.2550 
+C5A  C5B  N5B    74.700    111.6210 
+C5A  C5B  C=O    59.588    124.8900 
+N5B  C5B  C=O    68.295    121.8210 
+C5B  N5B  C5A    86.791    103.7790 
+N5B  C5A  NPYL   72.829    110.8650 
+N5B  C5A  HCMM   46.274    125.1340 
+NPYL C5A  HCMM   44.403    121.1270 
+C5A  NPYL C5A    82.904    109.5990 
+C5A  NPYL CR     61.459    123.3800 
+C5B  C=O  NC=O   79.018    113.2330 
+C5B  C=O  O=C    77.075    124.1330 
+NC=O C=O  O=C    65.273    127.1520 
+C=O  NC=O C=O    51.024    120.2740 
+C=O  NC=O HNCO   41.380    120.2770 
+C=O  NC=C HNCO   50.376    114.8080 
+HNCO NC=C HNCO   40.301    109.1600 
+NPYL CR   OR    106.869    106.4640 
+NPYL CR   HCMM   58.364    106.2990 
+OR   CR   HCMM   56.205    108.5770 
+HCMM CR   HCMM   37.134    108.8360 
+CR   OR   CR     86.143    106.9260 
+OR   CR   CR     71.390    108.1330 
+CR   CR   CR     61.243    109.6080 
+CR   CR   HCMM   45.770    110.5490 
+CR   OR   HOR    57.069    106.5030 
+
+DIHEDRALS
+C=O  N=C  C5A  C5B      0.900  2   180.00 
+C=O  N=C  C5A  NPYL     0.900  2   180.00 
+C=O  NC=O C=O  C5B      3.000  2   180.00 
+C=O  NC=O C=O  O=C      0.388  1     0.00 
+C=O  NC=O C=O  O=C     -0.292  2   180.00 
+C=O  NC=O C=O  O=C     -0.072  3     0.00 
+N=C  C=O  NC=O C=O      3.000  2   180.00 
+N=C  C=O  NC=O HNCO     3.000  2   180.00 
+N=C  C=O  NC=C HNCO     0.748  1     0.00 
+N=C  C=O  NC=C HNCO     2.184  2   180.00 
+N=C  C=O  NC=C HNCO    -0.208  3     0.00 
+N=C  C5A  C5B  N5B      0.000  1     0.00 
+N=C  C5A  C5B  C=O      0.000  1     0.00 
+N=C  C5A  NPYL C5A      3.000  2   180.00 
+N=C  C5A  NPYL CR       3.000  2   180.00 
+C5A  N=C  C=O  NC=O     0.900  2   180.00 
+C5A  N=C  C=O  NC=C     0.900  2   180.00 
+C5A  C5B  N5B  C5A      3.500  2   180.00 
+C5A  C5B  C=O  NC=O     1.250  2   180.00 
+C5A  C5B  C=O  O=C      1.250  2   180.00 
+C5A  NPYL C5A  N5B      2.000  2   180.00 
+C5A  NPYL C5A  HCMM     2.000  2   180.00 
+C5A  NPYL CR   OR       0.000  1     0.00 
+C5A  NPYL CR   HCMM    -0.057  3     0.00 
+C5B  C5A  NPYL C5A      2.000  2   180.00 
+C5B  C5A  NPYL CR       2.000  2   180.00 
+C5B  N5B  C5A  NPYL     3.500  2   180.00 
+C5B  N5B  C5A  HCMM     3.500  2   180.00 
+C5B  C=O  NC=O HNCO     3.000  2   180.00 
+N5B  C5B  C5A  NPYL     3.500  2   180.00 
+N5B  C5B  C=O  NC=O     1.250  2   180.00 
+N5B  C5B  C=O  O=C      1.250  2   180.00 
+N5B  C5A  NPYL CR       2.000  2   180.00 
+C5A  N5B  C5B  C=O      3.500  2   180.00 
+NPYL C5A  C5B  C=O      3.500  2   180.00 
+NPYL CR   OR   CR       0.100  3     0.00 
+C=O  NC=O C=O  NC=C     3.000  2   180.00 
+NC=O C=O  NC=C HNCO     1.950  2   180.00 
+NC=C C=O  NC=O HNCO     3.000  2   180.00 
+CR   NPYL C5A  HCMM     2.000  2   180.00 
+CR   OR   CR   CR      -0.341  1     0.00 
+CR   OR   CR   CR       0.378  2   180.00 
+CR   OR   CR   CR       0.378  3     0.00 
+CR   OR   CR   HCMM     0.285  1     0.00 
+CR   OR   CR   HCMM     0.160  2   180.00 
+CR   OR   CR   HCMM     0.285  3     0.00 
+OR   CR   CR   OR       0.204  1     0.00 
+OR   CR   CR   OR       0.699  2   180.00 
+OR   CR   CR   OR       0.480  3     0.00 
+OR   CR   CR   HCMM    -0.327  1     0.00 
+OR   CR   CR   HCMM     0.536  2   180.00 
+OR   CR   CR   HCMM     0.140  3     0.00 
+CR   CR   OR   HOR      0.135  2   180.00 
+CR   CR   OR   HOR      0.118  3     0.00 
+CR   CR   CR   OR      -0.344  1     0.00 
+CR   CR   CR   OR       0.879  2   180.00 
+CR   CR   CR   OR       0.238  3     0.00 
+CR   CR   CR   HCMM     0.320  1     0.00 
+CR   CR   CR   HCMM    -0.315  2   180.00 
+CR   CR   CR   HCMM     0.132  3     0.00 
+O=C  C=O  NC=O HNCO     0.718  1     0.00 
+O=C  C=O  NC=O HNCO     2.487  2   180.00 
+O=C  C=O  NC=O HNCO    -0.227  3     0.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+HCMM CR   OR   HOR      0.298  1     0.00 
+HCMM CR   OR   HOR     -0.138  2   180.00 
+HCMM CR   OR   HOR      0.173  3     0.00 
+
+IMPROPER
+C=O  NC=O N=C  NC=C     9.356  0     0.00 
+C5A  NPYL N=C  C5B      3.598  0     0.00 
+C5B  C=O  C5A  N5B      2.879  0     0.00 
+NPYL C5A  C5A  CR       0.864  0     0.00 
+CR   OR   NPYL HCMM     0.000  0     0.00 
+CR   CR   OR   CR       0.000  0     0.00 
+CR   CR   OR   HCMM     0.000  0     0.00 
+CR   OR   CR   HCMM     0.000  0     0.00 
+C=O  NC=O C5B  O=C      9.356  0     0.00 
+NC=C HNCO C=O  HNCO    -0.504  0     0.00 
+C5A  NPYL N5B  HCMM     4.894  0     0.00 
+NC=O C=O  C=O  HNCO    -2.159  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+C=O     0.000000  -0.110000     2.000000    
+N=C     0.000000  -0.200000     1.850000    
+C5A     0.000000  -0.050000     2.040000    
+C5B     0.000000  -0.050000     2.040000    
+N5B     0.000000  -0.200000     1.850000    
+NPYL    0.000000  -0.090000     1.720000    
+NC=O    0.000000  -0.200000     1.850000    
+NC=C    0.000000  -0.200000     1.850000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+OR      0.000000  -0.152100     1.770000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+HNCO    0.000000  -0.046000     0.224500    
+HCMM    0.000000  -0.022000     1.320000    
+HOR     0.000000  -0.046000     0.224500    
+
+

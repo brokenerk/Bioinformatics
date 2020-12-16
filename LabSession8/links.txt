@@ -1,0 +1,9 @@
+https://swissmodel.expasy.org/interactive
+http://raptorx.uchicago.edu/StructurePrediction/
+
+---------------------------
+https://www.uniprot.org/uniprot/A0A4Y9VKH6
+
+--------------------------------------
+Status for job with JobID 46519130
+http://raptorx.uchicago.edu/StructurePrediction/myjobs/46519130_599622

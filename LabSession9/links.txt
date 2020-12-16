@@ -1,0 +1,21 @@
+1AMY Chain A
+2IWT Chain B
+
+http://zdock.umassmed.edu/
+http://zdock.umassmed.edu/results/7ed897c392/
+1AVA
+----------------------------------------------------
+
+https://zinc.docking.org/
+http://www.swissdock.ch/
+
+Target: 2A4L
+Ligand: ZINC000001649340
+
+https://link.springer.com/protocol/10.1007%2F978-1-4939-9752-7_12
+https://zinc.docking.org/substances/ZINC000001649340/
+
+http://www.swissdock.ch/docking/view/swissdockd_d3EAZ5_YD1MPOTZHLJB1WZVU5F9
+----------------------------------------------------
+
+http://www.swissdock.ch/docking/view/swissdockd_HKBm1b_HRZ0YPHETWXN1P55F3QV

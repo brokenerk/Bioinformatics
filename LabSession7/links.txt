@@ -1,0 +1,7 @@
+SLC12A2
+
+https://www.ncbi.nlm.nih.gov/snp/rs886040968
+https://clinvarminer.genetics.utah.edu/submissions-by-variant/NM_001046.3%28SLC12A2%29%3Ac.3076_3086del%20%28p.Val1026fs%29
+
+https://www.ncbi.nlm.nih.gov/snp/rs1581138934
+https://clinvarminer.genetics.utah.edu/submissions-by-variant/NM_001046.3%28SLC12A2%29%3Ac.2935G%3EA%20%28p.Glu979Lys%29
